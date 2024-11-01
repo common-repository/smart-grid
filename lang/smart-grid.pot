@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-04-30 10:39+0600\n"
+"PO-Revision-Date: 2019-04-30 10:39+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: lib\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+
+#: admin/portfolio-cpt.php:10 admin/portfolio-cpt.php:11
+msgid "portfolio"
+msgstr ""
+
+#: admin/portfolio-cpt.php:12 admin/portfolio-cpt.php:15
+msgid "Add New portfolio"
+msgstr ""
+
+#: admin/portfolio-cpt.php:13
+msgid "Name"
+msgstr ""
+
+#: admin/portfolio-cpt.php:14
+msgid "Edit Name"
+msgstr ""
+
+#: admin/portfolio-cpt.php:16
+msgid "View portfolio"
+msgstr ""
+
+#: admin/portfolio-cpt.php:17
+msgid "Search portfolio"
+msgstr ""
+
+#: admin/portfolio-cpt.php:18
+msgid "No portfolio found"
+msgstr ""
+
+#: admin/portfolio-cpt.php:19
+msgid "No portfolio found in trash"
+msgstr ""
+
+#: admin/portfolio-cpt.php:20 admin/portfolio-cpt.php:21
+msgid "portfolio Image"
+msgstr ""
+
+#: admin/portfolio-cpt.php:22
+msgid "Set portfolio Image"
+msgstr ""
+
+#: admin/portfolio-cpt.php:23
+msgid "Remove portfolio Image"
+msgstr ""
+
+#: admin/portfolio-cpt.php:24
+msgid "Use as portfolio Image"
+msgstr ""
+
+#: admin/portfolio-cpt.php:42 admin/portfolio-cpt.php:43
+msgid "Portfolio Category"
+msgstr ""
+
+#: admin/portfolio-cpt.php:44
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: admin/portfolio-cpt.php:45
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: admin/portfolio-cpt.php:46
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: admin/portfolio-cpt.php:47
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: admin/portfolio-cpt.php:48
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: admin/portfolio-cpt.php:49
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: admin/portfolio-cpt.php:50
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: admin/portfolio-cpt.php:51
+msgid "New Portfolio Category"
+msgstr ""
+
+#: admin/portfolio-cpt.php:52
+msgid "Portfolio Categories"
+msgstr ""
+
+#: admin/settings.php:32
+msgid "Post Grid"
+msgstr ""
+
+#: admin/settings.php:40
+msgid "Portfolio Grid"
+msgstr ""
+
+#: admin/settings.php:48
+msgid "Woocommerce Product Settings"
+msgstr ""
+
+#: admin/settings.php:60 admin/settings.php:93 admin/settings.php:125
+msgid "Section Header"
+msgstr ""
+
+#: admin/settings.php:61 admin/settings.php:94 admin/settings.php:126
+msgid "Write Section Header Text"
+msgstr ""
+
+#: admin/settings.php:71 admin/settings.php:104 admin/settings.php:136
+msgid "Section Sub Header"
+msgstr ""
+
+#: admin/settings.php:72 admin/settings.php:105 admin/settings.php:137
+msgid "Write Section Sub Header Text"
+msgstr ""
+
+#: admin/settings.php:82 admin/settings.php:114 admin/settings.php:146
+msgid "How Many Post Display"
+msgstr ""
+
+#: admin/settings.php:83 admin/settings.php:115 admin/settings.php:147
+msgid "How Many Post You Want To Display"
+msgstr ""
+
+#: includes/class-wp-grid.php:451
+msgid "Choose Image"
+msgstr ""
